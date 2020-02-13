@@ -1,0 +1,3 @@
+[submodule "examples/bmi-test-projects"]
+	path = examples/bmi-test-projects
+	url = https://github.com/rmcd-mscb/bmi-test-projects
